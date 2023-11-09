@@ -184,11 +184,6 @@ fun BottomMenuItem(
 }
 
 @Composable
-fun FeatureSection() {
-    
-}
-
-@Composable
 fun CurrentMeditation(
     color: Color = LightRed
 ) {
