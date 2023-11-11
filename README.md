@@ -3,7 +3,8 @@ Meditation UI Home Screen With Jetpack Compose
 
 Reference : https://www.youtube.com/watch?v=g5-wzZUnIbQ&list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC&index=14
 
-Scrrenshots: 
+Videos: 
+
 [Screen_recording_20231111_095424.webm](https://github.com/AnunitaBiswas/JetPackComposeProject/assets/150347870/96d7d26d-3402-41f3-8c30-3a600356b54a)
 
 
